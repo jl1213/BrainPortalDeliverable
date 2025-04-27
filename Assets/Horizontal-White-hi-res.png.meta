@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 12e3916d5391c784cb9cf7d84ac9ad80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -876203718832531551
+    second: Horizontal-White-hi-res_0
+  - first:
+      213: 6417109005650780130
+    second: Horizontal-White-hi-res_1
+  - first:
+      213: 6009596205011718791
+    second: Horizontal-White-hi-res_2
+  - first:
+      213: -3866332212433497813
+    second: Horizontal-White-hi-res_3
+  - first:
+      213: -1660872892956153177
+    second: Horizontal-White-hi-res_4
+  - first:
+      213: 5507255910204244923
+    second: Horizontal-White-hi-res_5
+  - first:
+      213: 3255099436031403663
+    second: Horizontal-White-hi-res_6
+  - first:
+      213: 5153892857755926334
+    second: Horizontal-White-hi-res_7
+  - first:
+      213: 3448994419811462817
+    second: Horizontal-White-hi-res_8
+  - first:
+      213: 8753919434279049795
+    second: Horizontal-White-hi-res_9
+  - first:
+      213: -4274159929015507229
+    second: Horizontal-White-hi-res_10
+  - first:
+      213: 3130595902474140369
+    second: Horizontal-White-hi-res_11
+  - first:
+      213: 1530113772983607065
+    second: Horizontal-White-hi-res_12
+  - first:
+      213: 749183179204372536
+    second: Horizontal-White-hi-res_13
+  - first:
+      213: 8724294856060845331
+    second: Horizontal-White-hi-res_14
+  - first:
+      213: -3227227122051513679
+    second: Horizontal-White-hi-res_15
+  - first:
+      213: -2352415481705108924
+    second: Horizontal-White-hi-res_16
+  - first:
+      213: 7850729896435299651
+    second: Horizontal-White-hi-res_17
+  - first:
+      213: -2891409160574870631
+    second: Horizontal-White-hi-res_18
+  - first:
+      213: -2842641682928957524
+    second: Horizontal-White-hi-res_19
+  - first:
+      213: 4165979762648929699
+    second: Horizontal-White-hi-res_20
+  - first:
+      213: -6329859152811388535
+    second: Horizontal-White-hi-res_21
+  - first:
+      213: 5389036941469167558
+    second: Horizontal-White-hi-res_22
+  - first:
+      213: -820219834717153250
+    second: Horizontal-White-hi-res_23
+  - first:
+      213: 5846037880656996524
+    second: Horizontal-White-hi-res_24
+  - first:
+      213: -8192640728554093560
+    second: Horizontal-White-hi-res_25
+  - first:
+      213: -1848367256922013165
+    second: Horizontal-White-hi-res_26
+  - first:
+      213: 6428938049678413563
+    second: Horizontal-White-hi-res_27
+  - first:
+      213: 1836614393416339431
+    second: Horizontal-White-hi-res_28
+  - first:
+      213: -8852480283665300497
+    second: Horizontal-White-hi-res_29
+  - first:
+      213: 3783064676733496643
+    second: Horizontal-White-hi-res_30
+  - first:
+      213: -7449506382685147242
+    second: Horizontal-White-hi-res_31
+  - first:
+      213: 8615670671491575757
+    second: Horizontal-White-hi-res_32
+  - first:
+      213: -413130741244025891
+    second: Horizontal-White-hi-res_33
+  - first:
+      213: -3326332290544418649
+    second: Horizontal-White-hi-res_34
+  - first:
+      213: 6706687530387987691
+    second: Horizontal-White-hi-res_35
+  - first:
+      213: -991322767786391319
+    second: Horizontal-White-hi-res_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 1941
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a75c1c2c5917d3f0800000000000000
+      internalID: -876203718832531551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 95
+        width: 168
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef56ce24a62e0950800000000000000
+      internalID: 6417109005650780130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 189
+        width: 276
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782524388ef566350800000000000000
+      internalID: 6009596205011718791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 229
+        width: 16
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2150466657085ac0800000000000000
+      internalID: -3866332212433497813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae54e47e463f8e0800000000000000
+      internalID: -1660872892956153177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_5
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 298
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb305e65214bd6c40800000000000000
+      internalID: 5507255910204244923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_6
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e939d0bf6c2d20800000000000000
+      internalID: 3255099436031403663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_7
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff6f46f3e468740800000000000000
+      internalID: 5153892857755926334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_8
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 220
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeaa29b62a4ddf20800000000000000
+      internalID: 3448994419811462817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 229
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a5790685b2c7970800000000000000
+      internalID: 8753919434279049795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 228
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e662d5a0322fa4c0800000000000000
+      internalID: -4274159929015507229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 229
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab34ef26c127b20800000000000000
+      internalID: 3130595902474140369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 228
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fde90ae5e0c3510800000000000000
+      internalID: 1530113772983607065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_13
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 228
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838ac24d122a56a00800000000000000
+      internalID: 749183179204372536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_14
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 238
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3643c2fbe21970800000000000000
+      internalID: 8724294856060845331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 239
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20d94f7069633d0800000000000000
+      internalID: -3227227122051513679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 90
+        width: 168
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a66d0459a8a5fd0800000000000000
+      internalID: -2352415481705108924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 90
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b090fe3563fc60800000000000000
+      internalID: 7850729896435299651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 93
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bdf9310b6afd7d0800000000000000
+      internalID: -2891409160574870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_19
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 92
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70d494378ec88d0800000000000000
+      internalID: -2842641682928957524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_20
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 100
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d726958880d930800000000000000
+      internalID: 4165979762648929699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_21
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9811c6633a2d728a0800000000000000
+      internalID: -6329859152811388535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 99
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2ab1cb84b9ca40800000000000000
+      internalID: 5389036941469167558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_23
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1854f1f76efd94f0800000000000000
+      internalID: -820219834717153250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 94
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a9049a7c412150800000000000000
+      internalID: 5846037880656996524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_25
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804c222f9a4ed4e80800000000000000
+      internalID: -8192640728554093560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 100
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31243bcd5c74956e0800000000000000
+      internalID: -1848367256922013165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_27
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 99
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe031e181d283950800000000000000
+      internalID: 6428938049678413563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_28
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 100
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef43fc5f07fc7910800000000000000
+      internalID: 1836614393416339431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_29
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 100
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe30bfe951ca52580800000000000000
+      internalID: -8852480283665300497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_30
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 99
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d270ba745208430800000000000000
+      internalID: 3783064676733496643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_31
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 100
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69feb040a690e9890800000000000000
+      internalID: -7449506382685147242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_32
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 99
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa104f3d2019770800000000000000
+      internalID: 8615670671491575757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_33
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 100
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32b5a97c3444af0800000000000000
+      internalID: -413130741244025891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_34
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 99
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a04039c76e76d1d0800000000000000
+      internalID: -3326332290544418649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_35
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 99
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec515c76c0f21d50800000000000000
+      internalID: 6706687530387987691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizontal-White-hi-res_36
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 99
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c558e13d1e32f0800000000000000
+      internalID: -991322767786391319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd1570ae2dd36e24eb47bc9bc335653c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horizontal-White-hi-res_0: -876203718832531551
+      Horizontal-White-hi-res_1: 6417109005650780130
+      Horizontal-White-hi-res_10: -4274159929015507229
+      Horizontal-White-hi-res_11: 3130595902474140369
+      Horizontal-White-hi-res_12: 1530113772983607065
+      Horizontal-White-hi-res_13: 749183179204372536
+      Horizontal-White-hi-res_14: 8724294856060845331
+      Horizontal-White-hi-res_15: -3227227122051513679
+      Horizontal-White-hi-res_16: -2352415481705108924
+      Horizontal-White-hi-res_17: 7850729896435299651
+      Horizontal-White-hi-res_18: -2891409160574870631
+      Horizontal-White-hi-res_19: -2842641682928957524
+      Horizontal-White-hi-res_2: 6009596205011718791
+      Horizontal-White-hi-res_20: 4165979762648929699
+      Horizontal-White-hi-res_21: -6329859152811388535
+      Horizontal-White-hi-res_22: 5389036941469167558
+      Horizontal-White-hi-res_23: -820219834717153250
+      Horizontal-White-hi-res_24: 5846037880656996524
+      Horizontal-White-hi-res_25: -8192640728554093560
+      Horizontal-White-hi-res_26: -1848367256922013165
+      Horizontal-White-hi-res_27: 6428938049678413563
+      Horizontal-White-hi-res_28: 1836614393416339431
+      Horizontal-White-hi-res_29: -8852480283665300497
+      Horizontal-White-hi-res_3: -3866332212433497813
+      Horizontal-White-hi-res_30: 3783064676733496643
+      Horizontal-White-hi-res_31: -7449506382685147242
+      Horizontal-White-hi-res_32: 8615670671491575757
+      Horizontal-White-hi-res_33: -413130741244025891
+      Horizontal-White-hi-res_34: -3326332290544418649
+      Horizontal-White-hi-res_35: 6706687530387987691
+      Horizontal-White-hi-res_36: -991322767786391319
+      Horizontal-White-hi-res_4: -1660872892956153177
+      Horizontal-White-hi-res_5: 5507255910204244923
+      Horizontal-White-hi-res_6: 3255099436031403663
+      Horizontal-White-hi-res_7: 5153892857755926334
+      Horizontal-White-hi-res_8: 3448994419811462817
+      Horizontal-White-hi-res_9: 8753919434279049795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 26ec7447546a61e4585649c71fe31be9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7344889315734789995
+    second: thisoneyayayaya_0
+  - first:
+      213: 3222506496463589001
+    second: thisoneyayayaya_1
+  - first:
+      213: -6410429571607627658
+    second: thisoneyayayaya_2
+  - first:
+      213: 5476986007243830819
+    second: thisoneyayayaya_3
+  - first:
+      213: -3503950343818476474
+    second: thisoneyayayaya_4
+  - first:
+      213: -6239073876560607899
+    second: thisoneyayayaya_5
+  - first:
+      213: 9049278598717936966
+    second: thisoneyayayaya_6
+  - first:
+      213: 7586973238678601522
+    second: thisoneyayayaya_7
+  - first:
+      213: -922660062924321193
+    second: thisoneyayayaya_8
+  - first:
+      213: -3018576276604200034
+    second: thisoneyayayaya_9
+  - first:
+      213: 1664128727708976143
+    second: thisoneyayayaya_10
+  - first:
+      213: -5051921390662164840
+    second: thisoneyayayaya_11
+  - first:
+      213: -7659202460869065121
+    second: thisoneyayayaya_12
+  - first:
+      213: 5753478466403081173
+    second: thisoneyayayaya_13
+  - first:
+      213: -4453156102766480999
+    second: thisoneyayayaya_14
+  - first:
+      213: 2909899892080558079
+    second: thisoneyayayaya_15
+  - first:
+      213: 7242545856970858030
+    second: thisoneyayayaya_16
+  - first:
+      213: 586247631248278450
+    second: thisoneyayayaya_17
+  - first:
+      213: 5051267291745860232
+    second: thisoneyayayaya_18
+  - first:
+      213: -284473193992245958
+    second: thisoneyayayaya_19
+  - first:
+      213: -6880428506424725174
+    second: thisoneyayayaya_20
+  - first:
+      213: 5666124740823638539
+    second: thisoneyayayaya_21
+  - first:
+      213: 6338779261481756024
+    second: thisoneyayayaya_22
+  - first:
+      213: -7409165529977303176
+    second: thisoneyayayaya_23
+  - first:
+      213: -3064169187315013525
+    second: thisoneyayayaya_24
+  - first:
+      213: -615804060114686527
+    second: thisoneyayayaya_25
+  - first:
+      213: -8027181080650644954
+    second: thisoneyayayaya_26
+  - first:
+      213: -8071225540892408311
+    second: thisoneyayayaya_27
+  - first:
+      213: -6986855092670083268
+    second: thisoneyayayaya_28
+  - first:
+      213: -5542705655993993856
+    second: thisoneyayayaya_29
+  - first:
+      213: 4569855252755986078
+    second: thisoneyayayaya_30
+  - first:
+      213: 8821294820417177423
+    second: thisoneyayayaya_31
+  - first:
+      213: -8069723275765208670
+    second: thisoneyayayaya_32
+  - first:
+      213: 529553278984764488
+    second: thisoneyayayaya_33
+  - first:
+      213: 505650637542559878
+    second: thisoneyayayaya_34
+  - first:
+      213: 8152979403955869742
+    second: thisoneyayayaya_35
+  - first:
+      213: 5883666929157084666
+    second: thisoneyayayaya_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 26
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thisoneyayayaya_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 26
+        width: 1929
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590e01d0516b11a90800000000000000
+      internalID: -7344889315734789995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 95
+        width: 168
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec910c594a8bc20800000000000000
+      internalID: 3222506496463589001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 189
+        width: 276
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678faaeb4449907a0800000000000000
+      internalID: -6410429571607627658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 229
+        width: 16
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326bd8951c9220c40800000000000000
+      internalID: 5476986007243830819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644871e1ab77f5fc0800000000000000
+      internalID: -3503950343818476474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_5
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 298
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658f248d5b5a69a0800000000000000
+      internalID: -6239073876560607899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_6
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645902eb0fe759d70800000000000000
+      internalID: 9049278598717936966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_7
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 228
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f35db86f75a4960800000000000000
+      internalID: 7586973238678601522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_8
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 220
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec4fcaf8d0233f0800000000000000
+      internalID: -922660062924321193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 229
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd5999edcdb16d0800000000000000
+      internalID: -3018576276604200034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 228
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04cd9bc24c281710800000000000000
+      internalID: 1664128727708976143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 229
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e526ce248f3e9b0800000000000000
+      internalID: -5051921390662164840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 228
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560a1921fb05b590800000000000000
+      internalID: -7659202460869065121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_13
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 228
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db90d49e2678df40800000000000000
+      internalID: 5753478466403081173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_14
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 238
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991bd3d4e163332c0800000000000000
+      internalID: -4453156102766480999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 239
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb867d88a026820800000000000000
+      internalID: 2909899892080558079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 90
+        width: 168
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e99329511b28460800000000000000
+      internalID: 7242545856970858030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 90
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c7f25d15c22800800000000000000
+      internalID: 586247631248278450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 93
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88abf0ec6d4b91640800000000000000
+      internalID: 5051267291745860232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_19
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 92
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da8f323295d0cf0800000000000000
+      internalID: -284473193992245958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_20
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 100
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41351c3abec380a0800000000000000
+      internalID: -6880428506424725174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_21
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0268dd6e6e12ae40800000000000000
+      internalID: 5666124740823638539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 99
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ab3e672ed7f750800000000000000
+      internalID: 6338779261481756024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_23
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f42a7b43b5d2990800000000000000
+      internalID: -7409165529977303176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 94
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68246adb52e975d0800000000000000
+      internalID: -3064169187315013525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_25
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdee9158793477f0800000000000000
+      internalID: -615804060114686527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 100
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62205144659b99090800000000000000
+      internalID: -8027181080650644954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_27
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 99
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9064c0d322f3dff80800000000000000
+      internalID: -8071225540892408311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_28
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 100
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4548af44b90f90800000000000000
+      internalID: -6986855092670083268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_29
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 100
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085fde7829a5413b0800000000000000
+      internalID: -5542705655993993856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_30
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 99
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963977e3236b6f30800000000000000
+      internalID: 4569855252755986078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_31
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 100
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4785f5e6e88b6a70800000000000000
+      internalID: 8821294820417177423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_32
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 99
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a920589f65920090800000000000000
+      internalID: -8069723275765208670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_33
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 100
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb78bc6e9595700800000000000000
+      internalID: 529553278984764488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_34
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 99
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809c27639e640700800000000000000
+      internalID: 505650637542559878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_35
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 99
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289dd15293352170800000000000000
+      internalID: 8152979403955869742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thisoneyayayaya_36
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 99
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51f1926ebf6a150800000000000000
+      internalID: 5883666929157084666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89af653ac6c5cb447bf1e20877183821
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thisoneyayayaya_0: -7344889315734789995
+      thisoneyayayaya_1: 3222506496463589001
+      thisoneyayayaya_10: 1664128727708976143
+      thisoneyayayaya_11: -5051921390662164840
+      thisoneyayayaya_12: -7659202460869065121
+      thisoneyayayaya_13: 5753478466403081173
+      thisoneyayayaya_14: -4453156102766480999
+      thisoneyayayaya_15: 2909899892080558079
+      thisoneyayayaya_16: 7242545856970858030
+      thisoneyayayaya_17: 586247631248278450
+      thisoneyayayaya_18: 5051267291745860232
+      thisoneyayayaya_19: -284473193992245958
+      thisoneyayayaya_2: -6410429571607627658
+      thisoneyayayaya_20: -6880428506424725174
+      thisoneyayayaya_21: 5666124740823638539
+      thisoneyayayaya_22: 6338779261481756024
+      thisoneyayayaya_23: -7409165529977303176
+      thisoneyayayaya_24: -3064169187315013525
+      thisoneyayayaya_25: -615804060114686527
+      thisoneyayayaya_26: -8027181080650644954
+      thisoneyayayaya_27: -8071225540892408311
+      thisoneyayayaya_28: -6986855092670083268
+      thisoneyayayaya_29: -5542705655993993856
+      thisoneyayayaya_3: 5476986007243830819
+      thisoneyayayaya_30: 4569855252755986078
+      thisoneyayayaya_31: 8821294820417177423
+      thisoneyayayaya_32: -8069723275765208670
+      thisoneyayayaya_33: 529553278984764488
+      thisoneyayayaya_34: 505650637542559878
+      thisoneyayayaya_35: 8152979403955869742
+      thisoneyayayaya_36: 5883666929157084666
+      thisoneyayayaya_4: -3503950343818476474
+      thisoneyayayaya_5: -6239073876560607899
+      thisoneyayayaya_6: 9049278598717936966
+      thisoneyayayaya_7: 7586973238678601522
+      thisoneyayayaya_8: -922660062924321193
+      thisoneyayayaya_9: -3018576276604200034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

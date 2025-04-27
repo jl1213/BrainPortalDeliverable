@@ -1,0 +1,23 @@
+Question,A,B,C,D,E,F,G
+What type of cell makes myelin in the central nervous system?,oligodendrocyte,Schwann cell,astrocyte,endothelial cell,ependymal cell,microglia,
+What type of cell aids in the propagation of neural signals along myelinated axons in the central nervous system?,oligodendrocyte,Schwann cell,astrocyte,endothelial cell,ependymal cell,microglia,
+What type of cell is primarily localized to white matter in the central nervous system?,oligodendrocyte,Schwann cell,astrocyte,endothelial cell,ependymal cell,microglia,
+What type of cell presents molecular signals that influence the outgrowth of axons in the long tracts of the developing and recovering brain?,oligodendrocyte,Schwann cell,astrocyte,endothelial cell,ependymal cell,microglia,
+"What type of cell is subject to immunological attack in autoimmune disorders, such as multiple sclerosis, that affect white matter in the central nervous system?",oligodendrocyte,Schwann cell,astrocyte,endothelial cell,ependymal cell,microglia,
+What is the predominant type of glial cell that is found in gray matter in the central nervous system?,astrocyte,Schwann cell,endothelial cell,ependymal cell,microglia,,
+What type of cell contributes to the formation of the blood-brain barrier in the central nervous system?,astrocyte,microglia,neuron,Schwann cell,oligodendrocyte,ependymal cell,
+What type of cell contributes to the formation of the blood-brain barrier in the central nervous system?,endothelial cell,microglia,neuron,Schwann cell,oligodendrocyte,ependymal cell,
+What type of glial cell assists in the formation of new synapses and circuits in the central nervous system?,astrocyte,microglia,Schwann cell,oligodendrocyte,ependymal cell,,
+What type of glial cell contributes to the formation of scars in necrotic neural tissue following injury in the central nervous system?,astrocyte,microglia,Schwann cell,oligodendrocyte,ependymal cell,,
+What type of cell is derived from hematopoietic precursor cells that migrate into the brain during development?,microglia,neuron,Schwann cell,oligodendrocyte,astrocyte,endothelial cell,ependymal cell
+What type of cell serves as a macrophage in the central nervous system?,microglia,neuron,Schwann cell,oligodendrocyte,astrocyte,endothelial cell,ependymal cell
+"What type of cell, when activated, secretes signaling molecules (e.g., cytokines) that modulate local inflammatory responses in the brain?",microglia,neuron,Schwann cell,oligodendrocyte,astrocyte,endothelial cell,ependymal cell
+"What type of cell is recognized as the principal, excitatory neuron of the cerebral cortex?",pyramidal neuron,interneuron,oligodendrocyte,astrocyte,alpha motor neuron,glial stem cell,
+"What type of cell is recognized as a principal, excitatory neuron of the ventral horn in the spinal cord?",alpha motor neuron,interneuron,pyramidal neuron,oligodendrocyte,astrocyte,glial stem cell,
+What basic part of a typical neuron is most like the corresponding part of most other somatic cells of the body?,cell body,dendrites,axons,myelin sheaths,synaptic terminals,,
+What is the diameter of a typical neuronal cell body in the central nervous system?,25 microns in diameter,250 nanometers in diameter,250 microns in diameter,500 microns in diameter,500 nanometers in diameter,,
+What is the diameter of a typical neuronal axon in the central nervous system?,2 microns in diameter,50 microns in diameter,250 microns in diameter,2 nanometers in diameter,50 nanometers in diameter,,
+"Across different types of neurons, which metric of neuronal morphology is most similar in absolute magnitude (e.g., in cross-sectional diameter, total length, etc.)?",cell body volume,total axonal length,numbers of presynaptic terminals,number of dendritic spines,total dendritic length,,
+Where’s the best place to look for synapses in the central nervous system?,gray matter,white matter,both gray matter and white matter,,,,
+Where would you find axons in the central nervous system?,both gray matter and white matter,gray matter only,white matter only,,,,
+Where’s the best place to look for myelin in the central nervous system?,white matter,gray matter only,both gray matter and white matter,,,,

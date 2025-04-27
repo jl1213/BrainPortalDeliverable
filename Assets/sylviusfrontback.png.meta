@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 94500932d355a7b4aa5037a05fbfb5d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6005616269759043118
+    second: sylviusfrontback_0
+  - first:
+      213: 362613756966738187
+    second: sylviusfrontback_1
+  - first:
+      213: 2353415482268859686
+    second: sylviusfrontback_2
+  - first:
+      213: 6119609822085165567
+    second: sylviusfrontback_3
+  - first:
+      213: -6490897172162460646
+    second: sylviusfrontback_4
+  - first:
+      213: 1249852191345164021
+    second: sylviusfrontback_5
+  - first:
+      213: 4395414437651389976
+    second: sylviusfrontback_6
+  - first:
+      213: 4015426946680490850
+    second: sylviusfrontback_7
+  - first:
+      213: -8434910406394817450
+    second: sylviusfrontback_8
+  - first:
+      213: 6633836998586865647
+    second: sylviusfrontback_9
+  - first:
+      213: 4210034536831223796
+    second: sylviusfrontback_10
+  - first:
+      213: 5220125881304828014
+    second: sylviusfrontback_11
+  - first:
+      213: -8024191084395941018
+    second: sylviusfrontback_12
+  - first:
+      213: -4311900312207676457
+    second: sylviusfrontback_13
+  - first:
+      213: -1445087275554000593
+    second: sylviusfrontback_14
+  - first:
+      213: 8765875360799777412
+    second: sylviusfrontback_15
+  - first:
+      213: 5491164035283897579
+    second: sylviusfrontback_16
+  - first:
+      213: 1833899228862008856
+    second: sylviusfrontback_17
+  - first:
+      213: -9182289545255163573
+    second: sylviusfrontback_18
+  - first:
+      213: -8001532225579301523
+    second: sylviusfrontback_19
+  - first:
+      213: 1501747432760762852
+    second: sylviusfrontback_20
+  - first:
+      213: -1768548828372443750
+    second: sylviusfrontback_21
+  - first:
+      213: -6676143691463732797
+    second: sylviusfrontback_22
+  - first:
+      213: -128644128319442882
+    second: sylviusfrontback_23
+  - first:
+      213: 8920257867071720104
+    second: sylviusfrontback_24
+  - first:
+      213: 1629750568911632663
+    second: sylviusfrontback_25
+  - first:
+      213: -6721450818814171256
+    second: sylviusfrontback_26
+  - first:
+      213: -7618335379911763906
+    second: sylviusfrontback_27
+  - first:
+      213: 4715118351913540763
+    second: sylviusfrontback_28
+  - first:
+      213: -5425890464776131201
+    second: sylviusfrontback_29
+  - first:
+      213: -3051615703113068204
+    second: sylviusfrontback_30
+  - first:
+      213: 8740411944737012952
+    second: sylviusfrontback_31
+  - first:
+      213: 3347691000985087559
+    second: sylviusfrontback_32
+  - first:
+      213: 606658239369990421
+    second: sylviusfrontback_33
+  - first:
+      213: 3367605802240166313
+    second: sylviusfrontback_34
+  - first:
+      213: -1865641149854020760
+    second: sylviusfrontback_35
+  - first:
+      213: -4665284061561133743
+    second: sylviusfrontback_36
+  - first:
+      213: -331092837199196527
+    second: sylviusfrontback_37
+  - first:
+      213: -8140995341314975227
+    second: sylviusfrontback_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sylviusfrontback_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1282
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9a4bf52d3c7aca0800000000000000
+      internalID: -6005616269759043118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1277
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091cae6a43480500800000000000000
+      internalID: 362613756966738187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1283
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3a8589e209a020800000000000000
+      internalID: 2353415482268859686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1280
+        width: 130
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b069c5b83de450800000000000000
+      internalID: 6119609822085165567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_4
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1270
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144ba38963bbe5a0800000000000000
+      internalID: -6490897172162460646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_5
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1281
+        width: 135
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3fde22fd585110800000000000000
+      internalID: 1249852191345164021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_6
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1275
+        width: 138
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e95d4a426affc30800000000000000
+      internalID: 4395414437651389976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_7
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1267
+        width: 140
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b0c6a8889a9b730800000000000000
+      internalID: 4015426946680490850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1014
+        width: 140
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654579aecad21fa80800000000000000
+      internalID: -8434910406394817450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1010
+        width: 145
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71d964a9f101c50800000000000000
+      internalID: 6633836998586865647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1008
+        width: 147
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f783f30b1c0d6a30800000000000000
+      internalID: 4210034536831223796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1016
+        width: 144
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e684ff5e4dc917840800000000000000
+      internalID: 5220125881304828014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 995
+        width: 152
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66339b409b854a090800000000000000
+      internalID: -8024191084395941018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_13
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 994
+        width: 152
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db27ffe28d0924c0800000000000000
+      internalID: -4311900312207676457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_14
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1006
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ba2f77c402fbe0800000000000000
+      internalID: -1445087275554000593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_15
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1005
+        width: 156
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e1d17235a6a970800000000000000
+      internalID: 8765875360799777412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 696
+        width: 157
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4f7eb898843c40800000000000000
+      internalID: 5491164035283897579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 690
+        width: 162
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ece2ad1a1537910800000000000000
+      internalID: 1833899228862008856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_18
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 687
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496846fe44f19080800000000000000
+      internalID: -9182289545255163573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 673
+        width: 172
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d654183b5d8d4f090800000000000000
+      internalID: -8001532225579301523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_20
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 683
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e16f00655747d410800000000000000
+      internalID: 1501747432760762852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_21
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 653
+        width: 168
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5de4f53ad477e0800000000000000
+      internalID: -1768548828372443750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_22
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 657
+        width: 161
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d6d03fa29953a0800000000000000
+      internalID: -6676143691463732797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 395
+        width: 152
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30741dc8d6f63ef0800000000000000
+      internalID: -128644128319442882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 389
+        width: 152
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa81bfb44f1bcb70800000000000000
+      internalID: 8920257867071720104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 383
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719f774f1890e9610800000000000000
+      internalID: 1629750568911632663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_26
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 384
+        width: 144
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887a251971c98b2a0800000000000000
+      internalID: -6721450818814171256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_27
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 383
+        width: 148
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38919ce55c364690800000000000000
+      internalID: -7618335379911763906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_28
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 384
+        width: 145
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c5bb7c8277f6140800000000000000
+      internalID: 4715118351913540763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_29
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 372
+        width: 144
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de6d0be5d53b4b0800000000000000
+      internalID: -5425890464776131201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 141
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45111f8afab76a5d0800000000000000
+      internalID: -3051615703113068204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 112
+        width: 138
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc71a4ea5e2c4970800000000000000
+      internalID: 8740411944737012952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 117
+        width: 136
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eec738a33657e20800000000000000
+      internalID: 3347691000985087559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 113
+        width: 131
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51156b954784b6800800000000000000
+      internalID: 606658239369990421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_34
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 106
+        width: 127
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c11282a32cbe20800000000000000
+      internalID: 3367605802240166313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_35
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 100
+        width: 124
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b89904249eb16e0800000000000000
+      internalID: -1865641149854020760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_36
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 111
+        width: 119
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1556b5e1dd4914fb0800000000000000
+      internalID: -4665284061561133743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_37
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 102
+        width: 116
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ec01b91d8b76bf0800000000000000
+      internalID: -331092837199196527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sylviusfrontback_38
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 101
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9fc2bedf550f80800000000000000
+      internalID: -8140995341314975227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sylviusfrontback_0: -6005616269759043118
+      sylviusfrontback_1: 362613756966738187
+      sylviusfrontback_10: 4210034536831223796
+      sylviusfrontback_11: 5220125881304828014
+      sylviusfrontback_12: -8024191084395941018
+      sylviusfrontback_13: -4311900312207676457
+      sylviusfrontback_14: -1445087275554000593
+      sylviusfrontback_15: 8765875360799777412
+      sylviusfrontback_16: 5491164035283897579
+      sylviusfrontback_17: 1833899228862008856
+      sylviusfrontback_18: -9182289545255163573
+      sylviusfrontback_19: -8001532225579301523
+      sylviusfrontback_2: 2353415482268859686
+      sylviusfrontback_20: 1501747432760762852
+      sylviusfrontback_21: -1768548828372443750
+      sylviusfrontback_22: -6676143691463732797
+      sylviusfrontback_23: -128644128319442882
+      sylviusfrontback_24: 8920257867071720104
+      sylviusfrontback_25: 1629750568911632663
+      sylviusfrontback_26: -6721450818814171256
+      sylviusfrontback_27: -7618335379911763906
+      sylviusfrontback_28: 4715118351913540763
+      sylviusfrontback_29: -5425890464776131201
+      sylviusfrontback_3: 6119609822085165567
+      sylviusfrontback_30: -3051615703113068204
+      sylviusfrontback_31: 8740411944737012952
+      sylviusfrontback_32: 3347691000985087559
+      sylviusfrontback_33: 606658239369990421
+      sylviusfrontback_34: 3367605802240166313
+      sylviusfrontback_35: -1865641149854020760
+      sylviusfrontback_36: -4665284061561133743
+      sylviusfrontback_37: -331092837199196527
+      sylviusfrontback_38: -8140995341314975227
+      sylviusfrontback_4: -6490897172162460646
+      sylviusfrontback_5: 1249852191345164021
+      sylviusfrontback_6: 4395414437651389976
+      sylviusfrontback_7: 4015426946680490850
+      sylviusfrontback_8: -8434910406394817450
+      sylviusfrontback_9: 6633836998586865647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: bc0cd253860997943b4356f60783e6a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5895465681309857826
+    second: horizontalbrainanimation_0
+  - first:
+      213: -1190178859023052147
+    second: horizontalbrainanimation_1
+  - first:
+      213: -549607162789985518
+    second: horizontalbrainanimation_2
+  - first:
+      213: -8711729941743336773
+    second: horizontalbrainanimation_3
+  - first:
+      213: 461329521957274082
+    second: horizontalbrainanimation_4
+  - first:
+      213: -436290889700034584
+    second: horizontalbrainanimation_5
+  - first:
+      213: -932208289400786747
+    second: horizontalbrainanimation_6
+  - first:
+      213: -31606373238980717
+    second: horizontalbrainanimation_7
+  - first:
+      213: -4201807143060800067
+    second: horizontalbrainanimation_8
+  - first:
+      213: 8426883915266344763
+    second: horizontalbrainanimation_9
+  - first:
+      213: 18102780881588323
+    second: horizontalbrainanimation_10
+  - first:
+      213: -7736915231642054143
+    second: horizontalbrainanimation_11
+  - first:
+      213: -2761221435009625627
+    second: horizontalbrainanimation_12
+  - first:
+      213: 5049855526238216605
+    second: horizontalbrainanimation_13
+  - first:
+      213: 4238649822651772948
+    second: horizontalbrainanimation_14
+  - first:
+      213: -4125412818066722324
+    second: horizontalbrainanimation_15
+  - first:
+      213: 8953037398802921685
+    second: horizontalbrainanimation_16
+  - first:
+      213: 3794648536303353280
+    second: horizontalbrainanimation_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horizontalbrainanimation_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 381
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70508c2391f2ea0800000000000000
+      internalID: -5895465681309857826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 379
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8250c032a2ab7fe0800000000000000
+      internalID: -1190178859023052147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 378
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21384e782376f58f0800000000000000
+      internalID: -549607162789985518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 379
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2014356c7b91780800000000000000
+      internalID: -8711729941743336773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 381
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e10aa881c8f66600800000000000000
+      internalID: 461329521957274082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 383
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b0b45fbbf1f9f0800000000000000
+      internalID: -436290889700034584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 381
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c07795ff712013f0800000000000000
+      internalID: -932208289400786747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 383
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb376cb26bf8ff0800000000000000
+      internalID: -31606373238980717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd792f5aae20b5c0800000000000000
+      internalID: -4201807143060800067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 212
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3747ecf54e42f470800000000000000
+      internalID: 8426883915266344763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360d4ef1260504000800000000000000
+      internalID: 18102780881588323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 215
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1029aa8b694f0a490800000000000000
+      internalID: -7736915231642054143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_12
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 216
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e19e040cbb2ea9d0800000000000000
+      internalID: -2761221435009625627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 216
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e87888d0b41640800000000000000
+      internalID: 5049855526238216605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 212
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4107e6e6e85b2da30800000000000000
+      internalID: 4238649822651772948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_15
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 211
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13a4b36e69fb6c0800000000000000
+      internalID: -4125412818066722324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87f6834149f3c70800000000000000
+      internalID: 8953037398802921685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalbrainanimation_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd31d52dbc49a430800000000000000
+      internalID: 3794648536303353280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      horizontalbrainanimation_0: -5895465681309857826
+      horizontalbrainanimation_1: -1190178859023052147
+      horizontalbrainanimation_10: 18102780881588323
+      horizontalbrainanimation_11: -7736915231642054143
+      horizontalbrainanimation_12: -2761221435009625627
+      horizontalbrainanimation_13: 5049855526238216605
+      horizontalbrainanimation_14: 4238649822651772948
+      horizontalbrainanimation_15: -4125412818066722324
+      horizontalbrainanimation_16: 8953037398802921685
+      horizontalbrainanimation_17: 3794648536303353280
+      horizontalbrainanimation_2: -549607162789985518
+      horizontalbrainanimation_3: -8711729941743336773
+      horizontalbrainanimation_4: 461329521957274082
+      horizontalbrainanimation_5: -436290889700034584
+      horizontalbrainanimation_6: -932208289400786747
+      horizontalbrainanimation_7: -31606373238980717
+      horizontalbrainanimation_8: -4201807143060800067
+      horizontalbrainanimation_9: 8426883915266344763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

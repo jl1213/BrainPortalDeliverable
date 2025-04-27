@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/movable3dbrain.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SplashSlide.unity
+    guid: 7380bf496425d204ea13d708283debfd
+  - enabled: 1
+    path: Assets/Scenes/TitleSlide.unity
+    guid: e35f13e4711b2634a9c8294313a1b10e
+  - enabled: 1
+    path: Assets/Scenes/v3anatomyfinder.unity
+    guid: 67721f91ee0ed39419b70b32787a2a10
+  - enabled: 1
+    path: Assets/Scenes/singleslicer.unity
+    guid: 19707c868d68dd84e8de1c5d3083713a
+  - enabled: 1
+    path: Assets/Scenes/EndingSlide.unity
+    guid: 985b37fbfb7b5b64ab3f1bcbd1eb6e59
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
