@@ -20,6 +20,9 @@ The SceneSwitcher.cs script manages transitions between scenes in the neuroscien
 ### V2AnimationController.cs
 The V2AnimationController.cs script controls interactive playback of brain MRI animations. It allows users to move forward or backward through animation frames at adjustable speeds using UI buttons. The script manages animation state (PlayAnimation()), dynamically calculates and displays the current frame number (UpdateFrameDisplay()), and supports smooth manual navigation (MoveForward() and MoveBackward()). It also ensures necessary components like colliders and coordinate display scripts are attached when animations load. Playback speed is adapted based on the number of frames to maintain consistent frame timing across different animations.
 
+### CollisionMaker.cs
+The CollisionMaker.cs script generates interactive, clickable outlines based on coordinate data associated with brain images. It parses stored coordinates, draws solid line outlines, fills regions with semi-transparent meshes, and adds polygon colliders for tap detection. When users tap inside a correct outlined region, they are rewarded with points and progress through the educational flow. The script also handles penalty scoring for incorrect taps, making spatial learning and answer validation an intuitive part of the gameplay.
+
 ### ShowCoord.cs
 The ShowCoord.cs script lets users place, display, and copy coordinate markers on brain images, generating a spatial answer key for educational feedback.
 
@@ -29,8 +32,6 @@ The TitleLoader.cs script listens for user input (key press, mouse click, or tap
 ### TimerBarController.cs
 The TimerBarController.cs script manages the visual countdown timer during quiz interactions. It controls the timer’s progress bar (Slider UI), updates the timer each frame, and calculates a score multiplier based on how much time remains. This encourages quick, confident answers by rewarding players with higher scores for faster responses.
 
-### CollisionMaker.cs
-The CollisionMaker.cs script generates interactive, clickable outlines based on coordinate data associated with brain images. It parses stored coordinates, draws solid line outlines, fills regions with semi-transparent meshes, and adds polygon colliders for tap detection. When users tap inside a correct outlined region, they are rewarded with points and progress through the educational flow. The script also handles penalty scoring for incorrect taps, making spatial learning and answer validation an intuitive part of the gameplay.
 
 ### InfoPanelController.cs
 The InfoPanelController.cs script manages the information panel that displays anatomical, functional, and pathological details for selected brain structures. It automatically selects a default info tab based on the MRI viewing plane (coronal, axial, sagittal) and updates the panel when users tap corresponding buttons. Button highlights visually indicate the active category, helping users easily navigate between different types of neuroscience information.
