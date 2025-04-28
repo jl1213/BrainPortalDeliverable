@@ -35,6 +35,9 @@ The CollisionMaker.cs script generates interactive, clickable outlines based on 
 ### InfoPanelController.cs
 The InfoPanelController.cs script manages the information panel that displays anatomical, functional, and pathological details for selected brain structures. It automatically selects a default info tab based on the MRI viewing plane (coronal, axial, sagittal) and updates the panel when users tap corresponding buttons. Button highlights visually indicate the active category, helping users easily navigate between different types of neuroscience information.
 
+### SettingsController.cs
+The SettingsController.cs script manages the settings panel, offering scene restart, timer toggle, and application exit options for improved user control.
+
 
 ## Executing Program
 This program must be uploaded to Unity using editor version 6000.0.35f1. The program was optimized for running on a Windows machine.
