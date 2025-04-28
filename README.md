@@ -31,6 +31,9 @@ The TitleLoader.cs script listens for user input (key press, mouse click, or tap
 ### TimerBarController.cs
 The TimerBarController.cs script manages the visual countdown timer during quiz interactions. It controls the timer’s progress bar (Slider UI), updates the timer each frame, and calculates a score multiplier based on how much time remains. This encourages quick, confident answers by rewarding players with higher scores for faster responses.
 
+###CollisionMaker.cs
+The CollisionMaker.cs script generates interactive, clickable outlines based on coordinate data associated with brain images. It parses stored coordinates, draws solid line outlines, fills regions with semi-transparent meshes, and adds polygon colliders for tap detection. When users tap inside a correct outlined region, they are rewarded with points and progress through the educational flow. The script also handles penalty scoring for incorrect taps, making spatial learning and answer validation an intuitive part of the gameplay.
+
 ## Executing Program
 This program must be uploaded to Unity using editor version 6000.0.35f1. The program was optimized for running on a Windows machine.
 
