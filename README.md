@@ -1,10 +1,6 @@
 ###### Brought to you by Joshua Lin (Duke '27, Neuroscience) and Sola Corrado (Duke '27, Computer Science).
 
-This repository contains the complete work of the Social Format Touchscreen Display Group within the 
-Brain Portal: Designing Multimedia Displays for Duke Neuroscience (2024–2025) Bass Connections team. 
-Our subteam was tasked to develop an interactive neuroscience educaitonal tool optimized for use on large touchscreen tables. 
-Seeing the limitations of traditional, static neuroscience learning methods, we aimed to produce a dynamic, customizable experience
-that works for both students and instructors to foster exploration, curiosity, and intuitive learning.
+This repository contains the complete work of the Social Format Touchscreen Display Group within the Brain Portal: Designing Multimedia Displays for Duke Neuroscience (2024–2025) Bass Connections team. Our subteam was tasked to develop an interactive neuroscience educational tool optimized for use on large touchscreen tables. Seeing the limitations of traditional, static neuroscience learning methods, we aimed to produce a dynamic, customizable experience that works for both students and instructors to foster exploration, curiosity, and intuitive learning.
 
 Traditional educational games often lack the flexibility and scientific depth required for advanced learning environments. We saw the need to develop more effective tools for spatial reasoning and complex visualization - many of the current day tools often emphasize rote memorization over meaningful engagement, which might feel rigid, superficial, or unintuitive to students learning neuroanatomy. To address these limitations, we aimed to create a highly 
 interactive, customizable platform that encourages users to explore real MRI data (sourced from Duke Institute for Brain Sciences). Our goal is for 
