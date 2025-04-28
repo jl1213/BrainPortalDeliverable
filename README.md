@@ -32,6 +32,10 @@ The TimerBarController.cs script manages the visual countdown timer during quiz 
 ### CollisionMaker.cs
 The CollisionMaker.cs script generates interactive, clickable outlines based on coordinate data associated with brain images. It parses stored coordinates, draws solid line outlines, fills regions with semi-transparent meshes, and adds polygon colliders for tap detection. When users tap inside a correct outlined region, they are rewarded with points and progress through the educational flow. The script also handles penalty scoring for incorrect taps, making spatial learning and answer validation an intuitive part of the gameplay.
 
+### InfoPanelController.cs
+The InfoPanelController.cs script manages the information panel that displays anatomical, functional, and pathological details for selected brain structures. It automatically selects a default info tab based on the MRI viewing plane (coronal, axial, sagittal) and updates the panel when users tap corresponding buttons. Button highlights visually indicate the active category, helping users easily navigate between different types of neuroscience information.
+
+
 ## Executing Program
 This program must be uploaded to Unity using editor version 6000.0.35f1. The program was optimized for running on a Windows machine.
 
