@@ -22,11 +22,11 @@ The V2AnimationController.cs script controls interactive playback of brain MRI a
 ## ShowCoord.cs
 The ShowCoord.cs script lets users place, display, and copy coordinate markers on brain images, generating a spatial answer key for educational feedback.
 
+## TitleLoader.cs
+The TitleLoader.cs script listens for user input (key press, mouse click, or tap) and loads the main application scene to start the experience.
 
-
-
-
-
+## TimerBarController.cs
+The TimerBarController.cs script manages the visual countdown timer during quiz interactions. It controls the timer’s progress bar (Slider UI), updates the timer each frame, and calculates a score multiplier based on how much time remains. This encourages quick, confident answers by rewarding players with higher scores for faster responses.
 
 
 
