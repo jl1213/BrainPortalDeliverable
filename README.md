@@ -9,8 +9,6 @@ Traditional educational games often lack the flexibility and scientific depth re
 
 In our final product, users flip through coronal, sagittal, and axial slices of a real-life MRI brain, developing spatial architecture skills and intuition through an interactive experience designed to emulate a 3D perspective of the brain.
 
-This project is part of the larger Brain Portal initiative at the Duke Institute for Brain Sciences (DIBS) and was supported through the Bass Connections program at Duke University. We thank our mentors Dr. Len White and Professor Augustus Wendell for providing their valuable resources, expertise, and time.
-
 ## **Notable Code Files**
 
 ### V4MCQ.cs
@@ -36,6 +34,10 @@ The CollisionMaker.cs script generates interactive, clickable outlines based on 
 
 ## Executing Program
 This program must be uploaded to Unity using editor version 6000.0.35f1. The program was optimized for running on a Windows machine.
+
+## Acknowledgements
+This project is part of the larger Brain Portal initiative at the Duke Institute for Brain Sciences (DIBS) and was supported through the Bass Connections program at Duke University. We thank our mentors Dr. Len White and Professor Augustus Wendell for providing their valuable resources, expertise, and time.
+
 
 
 
